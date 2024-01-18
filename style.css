@@ -353,12 +353,14 @@ a{
         border-radius: 8px;
         height: 60px;
         font-size: 15px;
+        filter: drop-shadow(.5px .5px .5px blue);
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     }
 
     .study-cont1-s2{
         height: 60px;
         border-radius: 8px;
+        filter: drop-shadow(.5px .5px .5px blue);
     }
 
     td{
